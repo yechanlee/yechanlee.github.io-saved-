@@ -6,19 +6,21 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://yechanlee.github.io/Moon"><b>Moon</b></a> 기술 블로그 .</center>
+<center><a href="http://yechanlee.github.io/"><b>YeChanLee</b></a> 기술 블로그 .</center>
 
 ## Features
+* Mt.Pleasant Middle School, livingston NJ
 * 충남대학교 컴퓨터공학과 졸
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+* ChungNam National University ROTC 55th.
+
+
+##Programming Language
+* Java 
+* C++
+* Python
+* HTML/CSS/JavaScript
+* Android
+* R
 
 ## Preview
 
@@ -30,8 +32,7 @@ comments: false
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-## Getting Started
+## Yellongs A
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
 
