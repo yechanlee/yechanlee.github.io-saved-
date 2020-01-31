@@ -12,7 +12,7 @@ comments: false
 * Mt.Pleasant Middle School, livingston NJ
 * 충남대학교 컴퓨터공학과 졸.
 * ChungNam National University ROTC 55th.
-
+* Korea Military Officer (2017~2019.06)
 
 ## Programming Language
 * Java 
@@ -22,11 +22,14 @@ comments: false
 * Android
 * R
 
+## Server
+*MSSQL Server
+*Oracle MySQL
+
 ## Current Job
--Korea Military Officer (2017~)
+*Lotte Data Communications Company(LDCC) (2019.07~)
 
 ## Yellongs
-
 instagram id: yellongs
       
 
