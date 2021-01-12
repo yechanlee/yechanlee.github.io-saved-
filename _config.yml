@@ -1,7 +1,7 @@
 # Site
-title:               yellong's blog
-bio:                '롯데정보통신 / CNU CSE '
-description:        "이예찬의 기술블로그 입니다."
+title:               얘롱잇의 IT WORLD
+bio:                '롯데정보통신 / CNU CSE / ROTC 55th'
+description:        "얘롱잇의 IT WORLD 입니다."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/yechan.jpeg'
@@ -42,7 +42,7 @@ email:              firecare@naver.com
 #facebook:           username
 github-url:         yechanlee
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          firecare@naver.com
 #xing:              username
 instagram:          yellongs
 #lastfm:            username
