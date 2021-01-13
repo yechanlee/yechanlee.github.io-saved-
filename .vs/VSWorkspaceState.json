@@ -3,13 +3,14 @@
     "",
     "\\about",
     "\\assets",
-    "\\posts",
+    "\\assets\\css",
+    "\\assets\\fonts",
+    "\\assets\\fonts\\FiraSans",
+    "\\assets\\img",
     "\\projects",
     "\\tags",
-    "\\_includes",
-    "\\_layouts",
-    "\\_posts"
+    "\\_sass\\vendor"
   ],
-  "SelectedNode": "\\_posts\\2018-05-21-자료구조_Graph.md",
+  "SelectedNode": "\\_sass",
   "PreviewInSolutionExplorer": false
 }
